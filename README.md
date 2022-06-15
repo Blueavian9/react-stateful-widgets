@@ -24,7 +24,7 @@ This project includes a `src/components` folder containing several React compone
 - [X] Download project dependencies by running `npm install`.
 - [X] Start up the app using `npm start`.
 - [X] Optionally run tests using `npm test`. (The app must be running on `http://localhost:1234`)
-- [X] Push commits: `git push origin main`.
+- [] Push commits: `git push origin main`.
 
 ### Task 2a: Minimum Viable Product
 
